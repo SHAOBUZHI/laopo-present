@@ -1,1 +1,1 @@
-/* License */
+/* For license information please see main.1b456965.js.LICENSE.txt */
